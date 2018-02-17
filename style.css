@@ -46,8 +46,8 @@ nav {
     height: 150px; 
 }
 
-#article { 
-    float: left;  
+article { 
+    float: left;   
     background-color: #777; 
     color: #ebebeb;
     height: 100px; 
@@ -55,18 +55,20 @@ nav {
     margin-top: 30px;
 }
 
-#multiple {
+#topLittleBox {
     background-color: #ebebeb;
     float: left; 
     margin: 15px; 
     padding: 10px; 
+    color: gray; 
 }
 
-#p {
+#bottomLittleBox {
     float: left; 
     margin: 15px; 
     padding: 10px; 
     background-color: #ebebeb;
+    color: gray;    
 }
 
 footer {
